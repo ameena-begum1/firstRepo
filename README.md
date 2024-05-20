@@ -1,4 +1,4 @@
 # firstRepo
 this is my first git repository
-<brt>
+<br>
 hello this in Ameenah Syed
